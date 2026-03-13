@@ -1,0 +1,8 @@
+# Added by User request
+__pycache__/
+*.pyc
+database/*.db
+database/*.sqlite
+.vscode/
+.idea/
+.DS_Store
